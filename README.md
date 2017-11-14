@@ -2,6 +2,7 @@
 
 [![GoDoc](https://godoc.org/github.com/mattevans/fullers-go?status.svg)](https://godoc.org/github.com/mattevans/fullers-go)
 [![Go Report Card](https://goreportcard.com/badge/github.com/mattevans/fullers-go)](https://goreportcard.com/report/github.com/mattevans/fullers-go)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/mattevans/fullers-go/blob/master/LICENSE)
 
 Scraps timetables and alerts of [Fullers](https://www.fullers.co.nz/) destinations from their site.
 
